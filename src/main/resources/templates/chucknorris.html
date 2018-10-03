@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>chucknorris</title>
+    <script type="text/javascript">
+        function abc() {
+            var r = Math.floor(Math.random() * 255);
+            var g = Math.floor(Math.random() * 255);
+            var b = Math.floor(Math.random() * 255);
+            var bg = "background:rgb(" + r + "," + g + "," + b + ");";
+            var element = document.getElementById("randomColor");
+            element.style = bg;
+        }
+
+        setInterval(abc, 10000);
+
+        document.addEventListener("DOMContentLoaded", (abc));
+    </script>
+    <style>
+        #randomColor {
+            width: 100vw;
+            height: 100vh;
+            transition: 4s;
+        }
+
+        .center {
+            margin: auto;
+            width: 40%;
+            height: 30%;
+            padding: 20px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .title {
+            font-family: Gabriola;
+            color: whitesmoke;
+        }
+    </style>
+</head>
+<body id="randomColor">
+<div class="center" style="background: rgba(0, 0, 0, 0.49);">
+
+    <h1 class="title">Chuck Norris joke for today:</h1>
+    <h3 class="title" style="width:available;" th:text="${joke}">Maslow's theory of higher needs
+        does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.</h3>
+</div>
+
+</body>
+</html>
