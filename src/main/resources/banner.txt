@@ -1,0 +1,25 @@
+
+
+             jjjj                  kkkkkkkk                                         AAA
+            j::::j                 k::::::k                                        A:::A
+             jjjj                  k::::::k                                       A:::::A
+                                   k::::::k                                      A:::::::A
+           jjjjjjj   ooooooooooo    k:::::k    kkkkkkk eeeeeeeeeeee             A:::::::::A          ppppp   ppppppppp   ppppp   ppppppppp
+           j:::::j oo:::::::::::oo  k:::::k   k:::::kee::::::::::::ee          A:::::A:::::A         p::::ppp:::::::::p  p::::ppp:::::::::p
+            j::::jo:::::::::::::::o k:::::k  k:::::ke::::::eeeee:::::ee       A:::::A A:::::A        p:::::::::::::::::p p:::::::::::::::::p
+            j::::jo:::::ooooo:::::o k:::::k k:::::ke::::::e     e:::::e      A:::::A   A:::::A       pp::::::ppppp::::::ppp::::::ppppp::::::p
+            j::::jo::::o     o::::o k::::::k:::::k e:::::::eeeee::::::e     A:::::A     A:::::A       p:::::p     p:::::p p:::::p     p:::::p
+            j::::jo::::o     o::::o k:::::::::::k  e:::::::::::::::::e     A:::::AAAAAAAAA:::::A      p:::::p     p:::::p p:::::p     p:::::p
+            j::::jo::::o     o::::o k:::::::::::k  e::::::eeeeeeeeeee     A:::::::::::::::::::::A     p:::::p     p:::::p p:::::p     p:::::p
+            j::::jo::::o     o::::o k::::::k:::::k e:::::::e             A:::::AAAAAAAAAAAAA:::::A    p:::::p    p::::::p p:::::p    p::::::p
+            j::::jo:::::ooooo:::::ok::::::k k:::::ke::::::::e           A:::::A             A:::::A   p:::::ppppp:::::::p p:::::ppppp:::::::p
+            j::::jo:::::::::::::::ok::::::k  k:::::ke::::::::eeeeeeee  A:::::A               A:::::A  p::::::::::::::::p  p::::::::::::::::p
+            j::::j oo:::::::::::oo k::::::k   k:::::kee:::::::::::::e A:::::A                 A:::::A p::::::::::::::pp   p::::::::::::::pp
+            j::::j   ooooooooooo   kkkkkkkk    kkkkkkk eeeeeeeeeeeeeeAAAAAAA                   AAAAAAAp::::::pppppppp     p::::::pppppppp
+            j::::j                                                                                    p:::::p             p:::::p
+  jjjj      j::::j                                                                                    p:::::p             p:::::p
+ j::::jj   j:::::j                                                                                   p:::::::p           p:::::::p
+ j::::::jjj::::::j                                                                                   p:::::::p           p:::::::p
+  jj::::::::::::j                                                                                    p:::::::p           p:::::::p
+    jjj::::::jjj                                                                                     ppppppppp           ppppppppp
+       jjjjjj
